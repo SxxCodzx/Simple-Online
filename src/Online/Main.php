@@ -4,7 +4,7 @@ namespace Online;
 
 use pocketmine\Server;
 use pocketmine\player\Player;
-use pocketmine\plugin\PluginManager as P;
+use pocketmine\plugin\PluginBase as P;
 use pocketmine\command\CommandSender;
 use pocketmine\event\Listener as L;
 use pocketmine\command\Command;
