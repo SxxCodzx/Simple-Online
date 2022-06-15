@@ -6,14 +6,4 @@ api: 4.0.0
 
 version: 1.0.0
 
-author: SexxRetacted
-
-commands: 
-  online:
-    description: "Online Players Command"
-    permission: online.cmd
-    
-permissions:
-  online.cmd:
-    description: "online permission"
-    default: true
+author: SxxCodezx
